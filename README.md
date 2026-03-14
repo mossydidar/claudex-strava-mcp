@@ -186,4 +186,4 @@ MIT
 
 ---
 
-*Built by [Mostafa Didar Mahdi](https://linkedin.com/in/mostafa-didar) — Data Scientist, Anthropic-certified AI practitioner, Adelaide.*
+*Built by [Mostafa Didar Mahdi](https://linkedin.com/in/mostafadidar) — Data Scientist, Anthropic-certified AI practitioner, Adelaide.*
